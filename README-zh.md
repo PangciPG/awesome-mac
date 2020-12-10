@@ -784,6 +784,7 @@
 * [Enpass](https://www.enpass.io/) - 具有云集成的跨平台密码管理工具。 [![App Store][app-store Icon]](https://itunes.apple.com/cn/app/enpass-password-manager/id732710998?mt=12)
 * [LastPass](https://www.lastpass.com/) - 密码管理器和安全的数字笔记。
 * [Keeweb](https://keeweb.info/) - 与 KeePass 兼容的免费跨平台密码管理器。 [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) ![Freeware][Freeware Icon]
+* [Bitwarden](https://bitwarden.com) - 开源跨平台云密码管理器，个人免费。 [Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]]
 
 ### Finder
 
